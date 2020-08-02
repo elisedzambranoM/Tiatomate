@@ -1,4 +1,4 @@
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 640px) {
     .header__title--typography1 {
         font-size: 2rem;
     }
@@ -12,12 +12,21 @@
         text-align: center;
     }
 
-    .main__footer {
+    .main__footer h1 {
         font-size: 2rem;
         text-align: center;
     }
 
     .footer__button {
         font-size: 1rem;
+    }
+
+    .container div:nth-of-type(7) h1 {
+        font-size: 1.5rem;
+    }
+
+    .container div:nth-of-type(7) {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 }
