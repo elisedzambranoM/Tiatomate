@@ -1,0 +1,23 @@
+@media screen and (max-width: 360px) {
+    .header__title--typography1 {
+        font-size: 2rem;
+    }
+
+    .header__title--typography2 {
+        font-size: 3rem;
+    }
+
+    .main__parrafo--tres {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .main__footer {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .footer__button {
+        font-size: 1rem;
+    }
+}
